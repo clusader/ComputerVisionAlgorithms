@@ -1,3 +1,5 @@
+![Image](https://github.com/clusader/ComputerVisionAlgorithms/assets/34717108/5258dccb-df43-464a-9226-ede45e8b2791)
+
 # ComputerVisionAlgorithms
 Implementation and visualization of different CV algorithms.<br>
 This includes different performance enhancements for accessing Bitmap files since I don't want to overload my PC :)
