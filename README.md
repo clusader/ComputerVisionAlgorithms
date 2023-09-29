@@ -2,7 +2,7 @@
 
 # ComputerVisionAlgorithms
 Implementation and visualization of different CV algorithms.<br>
-This includes different performance enhancements for accessing Bitmap files since I don't want to overload my PC :)
+This includes different performance enhancements for accessing Bitmap files
 
 ## Current GUI and Functionality
 - Upload any image -> Binarize it.
